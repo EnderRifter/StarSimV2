@@ -1,0 +1,2 @@
+"./Tools/glslangValidator.exe" --target-env vulkan1.2 "./Shaders/shader.vert.glsl" -o "./Shaders/vert.spv"
+"./Tools/glslangValidator.exe" --target-env vulkan1.2 "./Shaders/shader.frag.glsl" -o "./Shaders/frag.spv"
